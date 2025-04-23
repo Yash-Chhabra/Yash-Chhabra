@@ -1,5 +1,9 @@
 ## Hi there 👋
+Welcome to my Page! <br />
+I'm Yash Chhabra, Software Developer From 🇮🇳 Ahmedabad, India, currently studying in 🇨🇦 Toronto, Canada
 
+### ✨ I'm familiar with Web and Mobile App Developement.
+### 📚 I'm currently learning Cloud Computing.
 <!--
 **Yash-Chhabra/Yash-Chhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
